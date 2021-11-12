@@ -1,3 +1,4 @@
+# Variable Reference
 
 Improvement of the ScriptableObjectVariable system from Ryan Hipple. https://github.com/roboryantron/Unite2017
 
@@ -9,7 +10,7 @@ With the following added :
  - UIText and UITextMeshPro extention that allow to directly update a GUI text field with the variable value for easy debug
  ![][image_ref_fdt728me]
  
- - Variable reference So & Mono Creator for custom types
+ - Variable reference SO & Mono Creator for custom types
  ![][image_ref_xmnfms8j]
  
  
