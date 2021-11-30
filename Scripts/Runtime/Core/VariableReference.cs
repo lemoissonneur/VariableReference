@@ -35,7 +35,7 @@ namespace CobayeStudio.VariableReference
         {
             switch(referenceType)
             {
-                default: return "";
+                default: return default;
                 case ReferenceTypes.SCRIPTABLEOBJECTVARIABLE: return GenericScriptableObjectValue?.ValueToString();
                 case ReferenceTypes.MONOBEHAVIOURVARIABLE: return GenericMonoBehaviourValue?.ValueToString();
             }

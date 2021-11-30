@@ -11,11 +11,12 @@ namespace CobayeStudio.VariableReference.UIText
     public class UIVariableReferenceTextMeshPro : TextMeshProUGUI
     {
         public VariableReference reference;
+        public string prefix;
+        public string suffix;
 
         private void Update()
         {
-            if (reference.ReferenceType != VariableReference.ReferenceTypes.LOCAL)
-                text = reference.ValueToString();
+            text = prefix + reference.ValueToString() + suffix;
         }
     }
 }

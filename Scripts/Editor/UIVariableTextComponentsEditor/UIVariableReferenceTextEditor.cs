@@ -10,6 +10,10 @@ namespace CobayeStudio.VariableReference.UIText
         public override void OnInspectorGUI()
         {
             EditorGUILayout.PropertyField(serializedObject.FindProperty(nameof(UIVariableReferenceText.reference)));
+            EditorGUILayout.PropertyField(serializedObject.FindProperty(nameof(UIVariableReferenceText.prefix)));
+            EditorGUILayout.PropertyField(serializedObject.FindProperty(nameof(UIVariableReferenceText.suffix)));
+
+            serializedObject.ApplyModifiedProperties();
 
             base.OnInspectorGUI();
         }
