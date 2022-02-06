@@ -57,6 +57,15 @@ namespace CobayeStudio.VariableReference
         [SerializeField] protected S ScriptableObjectValue;
         [SerializeField] protected M MonoBehaviourValue;
 
+        /// <summary>
+        /// Empty constructor with default local value
+        /// </summary>
+        public VariableReference()
+        {
+            LocalValue = default;
+            referenceType = ReferenceTypes.LOCAL;
+            SetLocalValue();
+        }
 
         /// <summary>
         /// Constructor with local value ( ReferenceType = ReferenceTypes.LOCAL)
