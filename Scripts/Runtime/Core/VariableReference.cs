@@ -62,9 +62,7 @@ namespace CobayeStudio.VariableReference
         /// </summary>
         public VariableReference()
         {
-            LocalValue = default;
-            referenceType = ReferenceTypes.LOCAL;
-            SetLocalValue();
+
         }
 
         /// <summary>

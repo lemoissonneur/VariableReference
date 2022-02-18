@@ -109,6 +109,7 @@ namespace CobayeStudio.VariableReference
     [Serializable]
     public class #CUSTOMTYPE#Reference : VariableReference<#CUSTOMTYPE#, #CUSTOMTYPE#ScriptableObjectVariable, #CUSTOMTYPE#MonoBehaviourVariable>
     {
+        public #CUSTOMTYPE#Reference() : base() { }
         public #CUSTOMTYPE#Reference(#CUSTOMTYPE# value) : base(value) { }
         public #CUSTOMTYPE#Reference(#CUSTOMTYPE#ScriptableObjectVariable newVariable) : base(newVariable) { }
         public #CUSTOMTYPE#Reference(#CUSTOMTYPE#MonoBehaviourVariable newVariable) : base(newVariable) { }
