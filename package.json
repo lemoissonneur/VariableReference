@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "com.lemoissonneur.variablereference",
+  "displayName": "Variable Reference",
+  "description": "Improvement of the ScriptableObjectVariable system from Ryan Hipple",
+  "keywords": [
+    "lemoissonneur"
+  ],
+  "unity": "2020.3",
+  "unityRelease": "",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Arthur LE BARON",
+    "email": "arthur.le-baron@cobayestudio.com",
+    "url": "https://www.github.com/lemoissonneur"
+  },
+  "license": "See LICENSE.md file",
+  "licensesUrl": "",
+  "changelogUrl": "https://github.com/lemoissonneur/VariableReference/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://lemoissonneur.github.io/VariableReference/",
+  "samples" : [
+  ],
+  "hideInEditor": false
+}
