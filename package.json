@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "com.lemoissonneur.variablereference",
   "displayName": "Variable Reference",
   "description": "Improvement of the ScriptableObjectVariable system from Ryan Hipple",
