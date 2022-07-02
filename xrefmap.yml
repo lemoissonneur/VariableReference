@@ -1,0 +1,960 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: VariableReference
+  name: VariableReference
+  href: api/VariableReference.html
+  commentId: N:VariableReference
+  fullName: VariableReference
+  nameWithType: VariableReference
+- uid: VariableReference.boolMonoBehaviourVariable
+  name: boolMonoBehaviourVariable
+  href: api/VariableReference.boolMonoBehaviourVariable.html
+  commentId: T:VariableReference.boolMonoBehaviourVariable
+  fullName: VariableReference.boolMonoBehaviourVariable
+  nameWithType: boolMonoBehaviourVariable
+- uid: VariableReference.boolReference
+  name: boolReference
+  href: api/VariableReference.boolReference.html
+  commentId: T:VariableReference.boolReference
+  fullName: VariableReference.boolReference
+  nameWithType: boolReference
+- uid: VariableReference.boolReference.#ctor
+  name: boolReference()
+  href: api/VariableReference.boolReference.html#VariableReference_boolReference__ctor
+  commentId: M:VariableReference.boolReference.#ctor
+  fullName: VariableReference.boolReference.boolReference()
+  nameWithType: boolReference.boolReference()
+- uid: VariableReference.boolReference.#ctor(System.Boolean)
+  name: boolReference(Boolean)
+  href: api/VariableReference.boolReference.html#VariableReference_boolReference__ctor_System_Boolean_
+  commentId: M:VariableReference.boolReference.#ctor(System.Boolean)
+  fullName: VariableReference.boolReference.boolReference(System.Boolean)
+  nameWithType: boolReference.boolReference(Boolean)
+- uid: VariableReference.boolReference.#ctor(VariableReference.boolMonoBehaviourVariable)
+  name: boolReference(boolMonoBehaviourVariable)
+  href: api/VariableReference.boolReference.html#VariableReference_boolReference__ctor_VariableReference_boolMonoBehaviourVariable_
+  commentId: M:VariableReference.boolReference.#ctor(VariableReference.boolMonoBehaviourVariable)
+  fullName: VariableReference.boolReference.boolReference(VariableReference.boolMonoBehaviourVariable)
+  nameWithType: boolReference.boolReference(boolMonoBehaviourVariable)
+- uid: VariableReference.boolReference.#ctor(VariableReference.boolScriptableObjectVariable)
+  name: boolReference(boolScriptableObjectVariable)
+  href: api/VariableReference.boolReference.html#VariableReference_boolReference__ctor_VariableReference_boolScriptableObjectVariable_
+  commentId: M:VariableReference.boolReference.#ctor(VariableReference.boolScriptableObjectVariable)
+  fullName: VariableReference.boolReference.boolReference(VariableReference.boolScriptableObjectVariable)
+  nameWithType: boolReference.boolReference(boolScriptableObjectVariable)
+- uid: VariableReference.boolReference.#ctor*
+  name: boolReference
+  href: api/VariableReference.boolReference.html#VariableReference_boolReference__ctor_
+  commentId: Overload:VariableReference.boolReference.#ctor
+  isSpec: "True"
+  fullName: VariableReference.boolReference.boolReference
+  nameWithType: boolReference.boolReference
+- uid: VariableReference.boolScriptableObjectVariable
+  name: boolScriptableObjectVariable
+  href: api/VariableReference.boolScriptableObjectVariable.html
+  commentId: T:VariableReference.boolScriptableObjectVariable
+  fullName: VariableReference.boolScriptableObjectVariable
+  nameWithType: boolScriptableObjectVariable
+- uid: VariableReference.CustomVariableReferenceCreator
+  name: CustomVariableReferenceCreator
+  href: api/VariableReference.CustomVariableReferenceCreator.html
+  commentId: T:VariableReference.CustomVariableReferenceCreator
+  fullName: VariableReference.CustomVariableReferenceCreator
+  nameWithType: CustomVariableReferenceCreator
+- uid: VariableReference.CustomVariableReferenceCreator.Create
+  name: Create()
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_Create
+  commentId: M:VariableReference.CustomVariableReferenceCreator.Create
+  fullName: VariableReference.CustomVariableReferenceCreator.Create()
+  nameWithType: CustomVariableReferenceCreator.Create()
+- uid: VariableReference.CustomVariableReferenceCreator.Create*
+  name: Create
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_Create_
+  commentId: Overload:VariableReference.CustomVariableReferenceCreator.Create
+  isSpec: "True"
+  fullName: VariableReference.CustomVariableReferenceCreator.Create
+  nameWithType: CustomVariableReferenceCreator.Create
+- uid: VariableReference.CustomVariableReferenceCreator.CreateAtCurrentPath
+  name: CreateAtCurrentPath
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_CreateAtCurrentPath
+  commentId: F:VariableReference.CustomVariableReferenceCreator.CreateAtCurrentPath
+  fullName: VariableReference.CustomVariableReferenceCreator.CreateAtCurrentPath
+  nameWithType: CustomVariableReferenceCreator.CreateAtCurrentPath
+- uid: VariableReference.CustomVariableReferenceCreator.GetNewFolderName
+  name: GetNewFolderName()
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_GetNewFolderName
+  commentId: M:VariableReference.CustomVariableReferenceCreator.GetNewFolderName
+  fullName: VariableReference.CustomVariableReferenceCreator.GetNewFolderName()
+  nameWithType: CustomVariableReferenceCreator.GetNewFolderName()
+- uid: VariableReference.CustomVariableReferenceCreator.GetNewFolderName*
+  name: GetNewFolderName
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_GetNewFolderName_
+  commentId: Overload:VariableReference.CustomVariableReferenceCreator.GetNewFolderName
+  isSpec: "True"
+  fullName: VariableReference.CustomVariableReferenceCreator.GetNewFolderName
+  nameWithType: CustomVariableReferenceCreator.GetNewFolderName
+- uid: VariableReference.CustomVariableReferenceCreator.GetNewFolderPath
+  name: GetNewFolderPath()
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_GetNewFolderPath
+  commentId: M:VariableReference.CustomVariableReferenceCreator.GetNewFolderPath
+  fullName: VariableReference.CustomVariableReferenceCreator.GetNewFolderPath()
+  nameWithType: CustomVariableReferenceCreator.GetNewFolderPath()
+- uid: VariableReference.CustomVariableReferenceCreator.GetNewFolderPath*
+  name: GetNewFolderPath
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_GetNewFolderPath_
+  commentId: Overload:VariableReference.CustomVariableReferenceCreator.GetNewFolderPath
+  isSpec: "True"
+  fullName: VariableReference.CustomVariableReferenceCreator.GetNewFolderPath
+  nameWithType: CustomVariableReferenceCreator.GetNewFolderPath
+- uid: VariableReference.CustomVariableReferenceCreator.GetParentFolderPath
+  name: GetParentFolderPath()
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_GetParentFolderPath
+  commentId: M:VariableReference.CustomVariableReferenceCreator.GetParentFolderPath
+  fullName: VariableReference.CustomVariableReferenceCreator.GetParentFolderPath()
+  nameWithType: CustomVariableReferenceCreator.GetParentFolderPath()
+- uid: VariableReference.CustomVariableReferenceCreator.GetParentFolderPath*
+  name: GetParentFolderPath
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_GetParentFolderPath_
+  commentId: Overload:VariableReference.CustomVariableReferenceCreator.GetParentFolderPath
+  isSpec: "True"
+  fullName: VariableReference.CustomVariableReferenceCreator.GetParentFolderPath
+  nameWithType: CustomVariableReferenceCreator.GetParentFolderPath
+- uid: VariableReference.CustomVariableReferenceCreator.MonoFileName
+  name: MonoFileName
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_MonoFileName
+  commentId: F:VariableReference.CustomVariableReferenceCreator.MonoFileName
+  fullName: VariableReference.CustomVariableReferenceCreator.MonoFileName
+  nameWithType: CustomVariableReferenceCreator.MonoFileName
+- uid: VariableReference.CustomVariableReferenceCreator.RefFileName
+  name: RefFileName
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_RefFileName
+  commentId: F:VariableReference.CustomVariableReferenceCreator.RefFileName
+  fullName: VariableReference.CustomVariableReferenceCreator.RefFileName
+  nameWithType: CustomVariableReferenceCreator.RefFileName
+- uid: VariableReference.CustomVariableReferenceCreator.SOFileName
+  name: SOFileName
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_SOFileName
+  commentId: F:VariableReference.CustomVariableReferenceCreator.SOFileName
+  fullName: VariableReference.CustomVariableReferenceCreator.SOFileName
+  nameWithType: CustomVariableReferenceCreator.SOFileName
+- uid: VariableReference.CustomVariableReferenceCreator.TargetFolder
+  name: TargetFolder
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_TargetFolder
+  commentId: F:VariableReference.CustomVariableReferenceCreator.TargetFolder
+  fullName: VariableReference.CustomVariableReferenceCreator.TargetFolder
+  nameWithType: CustomVariableReferenceCreator.TargetFolder
+- uid: VariableReference.CustomVariableReferenceCreator.TargetParentFolderExist
+  name: TargetParentFolderExist()
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_TargetParentFolderExist
+  commentId: M:VariableReference.CustomVariableReferenceCreator.TargetParentFolderExist
+  fullName: VariableReference.CustomVariableReferenceCreator.TargetParentFolderExist()
+  nameWithType: CustomVariableReferenceCreator.TargetParentFolderExist()
+- uid: VariableReference.CustomVariableReferenceCreator.TargetParentFolderExist*
+  name: TargetParentFolderExist
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_TargetParentFolderExist_
+  commentId: Overload:VariableReference.CustomVariableReferenceCreator.TargetParentFolderExist
+  isSpec: "True"
+  fullName: VariableReference.CustomVariableReferenceCreator.TargetParentFolderExist
+  nameWithType: CustomVariableReferenceCreator.TargetParentFolderExist
+- uid: VariableReference.CustomVariableReferenceCreator.TypeName
+  name: TypeName
+  href: api/VariableReference.CustomVariableReferenceCreator.html#VariableReference_CustomVariableReferenceCreator_TypeName
+  commentId: F:VariableReference.CustomVariableReferenceCreator.TypeName
+  fullName: VariableReference.CustomVariableReferenceCreator.TypeName
+  nameWithType: CustomVariableReferenceCreator.TypeName
+- uid: VariableReference.CustomVariableReferenceCreatorEditor
+  name: CustomVariableReferenceCreatorEditor
+  href: api/VariableReference.CustomVariableReferenceCreatorEditor.html
+  commentId: T:VariableReference.CustomVariableReferenceCreatorEditor
+  fullName: VariableReference.CustomVariableReferenceCreatorEditor
+  nameWithType: CustomVariableReferenceCreatorEditor
+- uid: VariableReference.CustomVariableReferenceCreatorEditor.OnInspectorGUI
+  name: OnInspectorGUI()
+  href: api/VariableReference.CustomVariableReferenceCreatorEditor.html#VariableReference_CustomVariableReferenceCreatorEditor_OnInspectorGUI
+  commentId: M:VariableReference.CustomVariableReferenceCreatorEditor.OnInspectorGUI
+  fullName: VariableReference.CustomVariableReferenceCreatorEditor.OnInspectorGUI()
+  nameWithType: CustomVariableReferenceCreatorEditor.OnInspectorGUI()
+- uid: VariableReference.CustomVariableReferenceCreatorEditor.OnInspectorGUI*
+  name: OnInspectorGUI
+  href: api/VariableReference.CustomVariableReferenceCreatorEditor.html#VariableReference_CustomVariableReferenceCreatorEditor_OnInspectorGUI_
+  commentId: Overload:VariableReference.CustomVariableReferenceCreatorEditor.OnInspectorGUI
+  isSpec: "True"
+  fullName: VariableReference.CustomVariableReferenceCreatorEditor.OnInspectorGUI
+  nameWithType: CustomVariableReferenceCreatorEditor.OnInspectorGUI
+- uid: VariableReference.doubleMonoBehaviourVariable
+  name: doubleMonoBehaviourVariable
+  href: api/VariableReference.doubleMonoBehaviourVariable.html
+  commentId: T:VariableReference.doubleMonoBehaviourVariable
+  fullName: VariableReference.doubleMonoBehaviourVariable
+  nameWithType: doubleMonoBehaviourVariable
+- uid: VariableReference.doubleReference
+  name: doubleReference
+  href: api/VariableReference.doubleReference.html
+  commentId: T:VariableReference.doubleReference
+  fullName: VariableReference.doubleReference
+  nameWithType: doubleReference
+- uid: VariableReference.doubleReference.#ctor
+  name: doubleReference()
+  href: api/VariableReference.doubleReference.html#VariableReference_doubleReference__ctor
+  commentId: M:VariableReference.doubleReference.#ctor
+  fullName: VariableReference.doubleReference.doubleReference()
+  nameWithType: doubleReference.doubleReference()
+- uid: VariableReference.doubleReference.#ctor(System.Double)
+  name: doubleReference(Double)
+  href: api/VariableReference.doubleReference.html#VariableReference_doubleReference__ctor_System_Double_
+  commentId: M:VariableReference.doubleReference.#ctor(System.Double)
+  fullName: VariableReference.doubleReference.doubleReference(System.Double)
+  nameWithType: doubleReference.doubleReference(Double)
+- uid: VariableReference.doubleReference.#ctor(VariableReference.doubleMonoBehaviourVariable)
+  name: doubleReference(doubleMonoBehaviourVariable)
+  href: api/VariableReference.doubleReference.html#VariableReference_doubleReference__ctor_VariableReference_doubleMonoBehaviourVariable_
+  commentId: M:VariableReference.doubleReference.#ctor(VariableReference.doubleMonoBehaviourVariable)
+  fullName: VariableReference.doubleReference.doubleReference(VariableReference.doubleMonoBehaviourVariable)
+  nameWithType: doubleReference.doubleReference(doubleMonoBehaviourVariable)
+- uid: VariableReference.doubleReference.#ctor(VariableReference.doubleScriptableObjectVariable)
+  name: doubleReference(doubleScriptableObjectVariable)
+  href: api/VariableReference.doubleReference.html#VariableReference_doubleReference__ctor_VariableReference_doubleScriptableObjectVariable_
+  commentId: M:VariableReference.doubleReference.#ctor(VariableReference.doubleScriptableObjectVariable)
+  fullName: VariableReference.doubleReference.doubleReference(VariableReference.doubleScriptableObjectVariable)
+  nameWithType: doubleReference.doubleReference(doubleScriptableObjectVariable)
+- uid: VariableReference.doubleReference.#ctor*
+  name: doubleReference
+  href: api/VariableReference.doubleReference.html#VariableReference_doubleReference__ctor_
+  commentId: Overload:VariableReference.doubleReference.#ctor
+  isSpec: "True"
+  fullName: VariableReference.doubleReference.doubleReference
+  nameWithType: doubleReference.doubleReference
+- uid: VariableReference.doubleScriptableObjectVariable
+  name: doubleScriptableObjectVariable
+  href: api/VariableReference.doubleScriptableObjectVariable.html
+  commentId: T:VariableReference.doubleScriptableObjectVariable
+  fullName: VariableReference.doubleScriptableObjectVariable
+  nameWithType: doubleScriptableObjectVariable
+- uid: VariableReference.floatMonoBehaviourVariable
+  name: floatMonoBehaviourVariable
+  href: api/VariableReference.floatMonoBehaviourVariable.html
+  commentId: T:VariableReference.floatMonoBehaviourVariable
+  fullName: VariableReference.floatMonoBehaviourVariable
+  nameWithType: floatMonoBehaviourVariable
+- uid: VariableReference.floatReference
+  name: floatReference
+  href: api/VariableReference.floatReference.html
+  commentId: T:VariableReference.floatReference
+  fullName: VariableReference.floatReference
+  nameWithType: floatReference
+- uid: VariableReference.floatReference.#ctor
+  name: floatReference()
+  href: api/VariableReference.floatReference.html#VariableReference_floatReference__ctor
+  commentId: M:VariableReference.floatReference.#ctor
+  fullName: VariableReference.floatReference.floatReference()
+  nameWithType: floatReference.floatReference()
+- uid: VariableReference.floatReference.#ctor(System.Single)
+  name: floatReference(Single)
+  href: api/VariableReference.floatReference.html#VariableReference_floatReference__ctor_System_Single_
+  commentId: M:VariableReference.floatReference.#ctor(System.Single)
+  fullName: VariableReference.floatReference.floatReference(System.Single)
+  nameWithType: floatReference.floatReference(Single)
+- uid: VariableReference.floatReference.#ctor(VariableReference.floatMonoBehaviourVariable)
+  name: floatReference(floatMonoBehaviourVariable)
+  href: api/VariableReference.floatReference.html#VariableReference_floatReference__ctor_VariableReference_floatMonoBehaviourVariable_
+  commentId: M:VariableReference.floatReference.#ctor(VariableReference.floatMonoBehaviourVariable)
+  fullName: VariableReference.floatReference.floatReference(VariableReference.floatMonoBehaviourVariable)
+  nameWithType: floatReference.floatReference(floatMonoBehaviourVariable)
+- uid: VariableReference.floatReference.#ctor(VariableReference.floatScriptableObjectVariable)
+  name: floatReference(floatScriptableObjectVariable)
+  href: api/VariableReference.floatReference.html#VariableReference_floatReference__ctor_VariableReference_floatScriptableObjectVariable_
+  commentId: M:VariableReference.floatReference.#ctor(VariableReference.floatScriptableObjectVariable)
+  fullName: VariableReference.floatReference.floatReference(VariableReference.floatScriptableObjectVariable)
+  nameWithType: floatReference.floatReference(floatScriptableObjectVariable)
+- uid: VariableReference.floatReference.#ctor*
+  name: floatReference
+  href: api/VariableReference.floatReference.html#VariableReference_floatReference__ctor_
+  commentId: Overload:VariableReference.floatReference.#ctor
+  isSpec: "True"
+  fullName: VariableReference.floatReference.floatReference
+  nameWithType: floatReference.floatReference
+- uid: VariableReference.floatScriptableObjectVariable
+  name: floatScriptableObjectVariable
+  href: api/VariableReference.floatScriptableObjectVariable.html
+  commentId: T:VariableReference.floatScriptableObjectVariable
+  fullName: VariableReference.floatScriptableObjectVariable
+  nameWithType: floatScriptableObjectVariable
+- uid: VariableReference.intMonoBehaviourVariable
+  name: intMonoBehaviourVariable
+  href: api/VariableReference.intMonoBehaviourVariable.html
+  commentId: T:VariableReference.intMonoBehaviourVariable
+  fullName: VariableReference.intMonoBehaviourVariable
+  nameWithType: intMonoBehaviourVariable
+- uid: VariableReference.intReference
+  name: intReference
+  href: api/VariableReference.intReference.html
+  commentId: T:VariableReference.intReference
+  fullName: VariableReference.intReference
+  nameWithType: intReference
+- uid: VariableReference.intReference.#ctor
+  name: intReference()
+  href: api/VariableReference.intReference.html#VariableReference_intReference__ctor
+  commentId: M:VariableReference.intReference.#ctor
+  fullName: VariableReference.intReference.intReference()
+  nameWithType: intReference.intReference()
+- uid: VariableReference.intReference.#ctor(System.Int32)
+  name: intReference(Int32)
+  href: api/VariableReference.intReference.html#VariableReference_intReference__ctor_System_Int32_
+  commentId: M:VariableReference.intReference.#ctor(System.Int32)
+  fullName: VariableReference.intReference.intReference(System.Int32)
+  nameWithType: intReference.intReference(Int32)
+- uid: VariableReference.intReference.#ctor(VariableReference.intMonoBehaviourVariable)
+  name: intReference(intMonoBehaviourVariable)
+  href: api/VariableReference.intReference.html#VariableReference_intReference__ctor_VariableReference_intMonoBehaviourVariable_
+  commentId: M:VariableReference.intReference.#ctor(VariableReference.intMonoBehaviourVariable)
+  fullName: VariableReference.intReference.intReference(VariableReference.intMonoBehaviourVariable)
+  nameWithType: intReference.intReference(intMonoBehaviourVariable)
+- uid: VariableReference.intReference.#ctor(VariableReference.intScriptableObjectVariable)
+  name: intReference(intScriptableObjectVariable)
+  href: api/VariableReference.intReference.html#VariableReference_intReference__ctor_VariableReference_intScriptableObjectVariable_
+  commentId: M:VariableReference.intReference.#ctor(VariableReference.intScriptableObjectVariable)
+  fullName: VariableReference.intReference.intReference(VariableReference.intScriptableObjectVariable)
+  nameWithType: intReference.intReference(intScriptableObjectVariable)
+- uid: VariableReference.intReference.#ctor*
+  name: intReference
+  href: api/VariableReference.intReference.html#VariableReference_intReference__ctor_
+  commentId: Overload:VariableReference.intReference.#ctor
+  isSpec: "True"
+  fullName: VariableReference.intReference.intReference
+  nameWithType: intReference.intReference
+- uid: VariableReference.intScriptableObjectVariable
+  name: intScriptableObjectVariable
+  href: api/VariableReference.intScriptableObjectVariable.html
+  commentId: T:VariableReference.intScriptableObjectVariable
+  fullName: VariableReference.intScriptableObjectVariable
+  nameWithType: intScriptableObjectVariable
+- uid: VariableReference.MonoBehaviourVariable
+  name: MonoBehaviourVariable
+  href: api/VariableReference.MonoBehaviourVariable.html
+  commentId: T:VariableReference.MonoBehaviourVariable
+  fullName: VariableReference.MonoBehaviourVariable
+  nameWithType: MonoBehaviourVariable
+- uid: VariableReference.MonoBehaviourVariable.ValueToString
+  name: ValueToString()
+  href: api/VariableReference.MonoBehaviourVariable.html#VariableReference_MonoBehaviourVariable_ValueToString
+  commentId: M:VariableReference.MonoBehaviourVariable.ValueToString
+  fullName: VariableReference.MonoBehaviourVariable.ValueToString()
+  nameWithType: MonoBehaviourVariable.ValueToString()
+- uid: VariableReference.MonoBehaviourVariable.ValueToString*
+  name: ValueToString
+  href: api/VariableReference.MonoBehaviourVariable.html#VariableReference_MonoBehaviourVariable_ValueToString_
+  commentId: Overload:VariableReference.MonoBehaviourVariable.ValueToString
+  isSpec: "True"
+  fullName: VariableReference.MonoBehaviourVariable.ValueToString
+  nameWithType: MonoBehaviourVariable.ValueToString
+- uid: VariableReference.MonoBehaviourVariable`1
+  name: MonoBehaviourVariable<T>
+  href: api/VariableReference.MonoBehaviourVariable-1.html
+  commentId: T:VariableReference.MonoBehaviourVariable`1
+  name.vb: MonoBehaviourVariable(Of T)
+  fullName: VariableReference.MonoBehaviourVariable<T>
+  fullName.vb: VariableReference.MonoBehaviourVariable(Of T)
+  nameWithType: MonoBehaviourVariable<T>
+  nameWithType.vb: MonoBehaviourVariable(Of T)
+- uid: VariableReference.MonoBehaviourVariable`1.op_Implicit(VariableReference.MonoBehaviourVariable{`0})~`0
+  name: Implicit(MonoBehaviourVariable<T> to T)
+  href: api/VariableReference.MonoBehaviourVariable-1.html#VariableReference_MonoBehaviourVariable_1_op_Implicit_VariableReference_MonoBehaviourVariable__0____0
+  commentId: M:VariableReference.MonoBehaviourVariable`1.op_Implicit(VariableReference.MonoBehaviourVariable{`0})~`0
+  name.vb: Widening(MonoBehaviourVariable(Of T) to T)
+  fullName: VariableReference.MonoBehaviourVariable<T>.Implicit(VariableReference.MonoBehaviourVariable<T> to T)
+  fullName.vb: VariableReference.MonoBehaviourVariable(Of T).Widening(VariableReference.MonoBehaviourVariable(Of T) to T)
+  nameWithType: MonoBehaviourVariable<T>.Implicit(MonoBehaviourVariable<T> to T)
+  nameWithType.vb: MonoBehaviourVariable(Of T).Widening(MonoBehaviourVariable(Of T) to T)
+- uid: VariableReference.MonoBehaviourVariable`1.op_Implicit*
+  name: Implicit
+  href: api/VariableReference.MonoBehaviourVariable-1.html#VariableReference_MonoBehaviourVariable_1_op_Implicit_
+  commentId: Overload:VariableReference.MonoBehaviourVariable`1.op_Implicit
+  isSpec: "True"
+  name.vb: Widening
+  fullName: VariableReference.MonoBehaviourVariable<T>.Implicit
+  fullName.vb: VariableReference.MonoBehaviourVariable(Of T).Widening
+  nameWithType: MonoBehaviourVariable<T>.Implicit
+  nameWithType.vb: MonoBehaviourVariable(Of T).Widening
+- uid: VariableReference.MonoBehaviourVariable`1.value
+  name: value
+  href: api/VariableReference.MonoBehaviourVariable-1.html#VariableReference_MonoBehaviourVariable_1_value
+  commentId: F:VariableReference.MonoBehaviourVariable`1.value
+  fullName: VariableReference.MonoBehaviourVariable<T>.value
+  fullName.vb: VariableReference.MonoBehaviourVariable(Of T).value
+  nameWithType: MonoBehaviourVariable<T>.value
+  nameWithType.vb: MonoBehaviourVariable(Of T).value
+- uid: VariableReference.MonoBehaviourVariable`1.Value
+  name: Value
+  href: api/VariableReference.MonoBehaviourVariable-1.html#VariableReference_MonoBehaviourVariable_1_Value
+  commentId: P:VariableReference.MonoBehaviourVariable`1.Value
+  fullName: VariableReference.MonoBehaviourVariable<T>.Value
+  fullName.vb: VariableReference.MonoBehaviourVariable(Of T).Value
+  nameWithType: MonoBehaviourVariable<T>.Value
+  nameWithType.vb: MonoBehaviourVariable(Of T).Value
+- uid: VariableReference.MonoBehaviourVariable`1.Value*
+  name: Value
+  href: api/VariableReference.MonoBehaviourVariable-1.html#VariableReference_MonoBehaviourVariable_1_Value_
+  commentId: Overload:VariableReference.MonoBehaviourVariable`1.Value
+  isSpec: "True"
+  fullName: VariableReference.MonoBehaviourVariable<T>.Value
+  fullName.vb: VariableReference.MonoBehaviourVariable(Of T).Value
+  nameWithType: MonoBehaviourVariable<T>.Value
+  nameWithType.vb: MonoBehaviourVariable(Of T).Value
+- uid: VariableReference.MonoBehaviourVariable`1.ValueToString
+  name: ValueToString()
+  href: api/VariableReference.MonoBehaviourVariable-1.html#VariableReference_MonoBehaviourVariable_1_ValueToString
+  commentId: M:VariableReference.MonoBehaviourVariable`1.ValueToString
+  fullName: VariableReference.MonoBehaviourVariable<T>.ValueToString()
+  fullName.vb: VariableReference.MonoBehaviourVariable(Of T).ValueToString()
+  nameWithType: MonoBehaviourVariable<T>.ValueToString()
+  nameWithType.vb: MonoBehaviourVariable(Of T).ValueToString()
+- uid: VariableReference.MonoBehaviourVariable`1.ValueToString*
+  name: ValueToString
+  href: api/VariableReference.MonoBehaviourVariable-1.html#VariableReference_MonoBehaviourVariable_1_ValueToString_
+  commentId: Overload:VariableReference.MonoBehaviourVariable`1.ValueToString
+  isSpec: "True"
+  fullName: VariableReference.MonoBehaviourVariable<T>.ValueToString
+  fullName.vb: VariableReference.MonoBehaviourVariable(Of T).ValueToString
+  nameWithType: MonoBehaviourVariable<T>.ValueToString
+  nameWithType.vb: MonoBehaviourVariable(Of T).ValueToString
+- uid: VariableReference.QuaternionMonoBehaviourVariable
+  name: QuaternionMonoBehaviourVariable
+  href: api/VariableReference.QuaternionMonoBehaviourVariable.html
+  commentId: T:VariableReference.QuaternionMonoBehaviourVariable
+  fullName: VariableReference.QuaternionMonoBehaviourVariable
+  nameWithType: QuaternionMonoBehaviourVariable
+- uid: VariableReference.QuaternionReference
+  name: QuaternionReference
+  href: api/VariableReference.QuaternionReference.html
+  commentId: T:VariableReference.QuaternionReference
+  fullName: VariableReference.QuaternionReference
+  nameWithType: QuaternionReference
+- uid: VariableReference.QuaternionReference.#ctor
+  name: QuaternionReference()
+  href: api/VariableReference.QuaternionReference.html#VariableReference_QuaternionReference__ctor
+  commentId: M:VariableReference.QuaternionReference.#ctor
+  fullName: VariableReference.QuaternionReference.QuaternionReference()
+  nameWithType: QuaternionReference.QuaternionReference()
+- uid: VariableReference.QuaternionReference.#ctor(Quaternion)
+  name: QuaternionReference(Quaternion)
+  href: api/VariableReference.QuaternionReference.html#VariableReference_QuaternionReference__ctor_Quaternion_
+  commentId: M:VariableReference.QuaternionReference.#ctor(Quaternion)
+  fullName: VariableReference.QuaternionReference.QuaternionReference(Quaternion)
+  nameWithType: QuaternionReference.QuaternionReference(Quaternion)
+- uid: VariableReference.QuaternionReference.#ctor(VariableReference.QuaternionMonoBehaviourVariable)
+  name: QuaternionReference(QuaternionMonoBehaviourVariable)
+  href: api/VariableReference.QuaternionReference.html#VariableReference_QuaternionReference__ctor_VariableReference_QuaternionMonoBehaviourVariable_
+  commentId: M:VariableReference.QuaternionReference.#ctor(VariableReference.QuaternionMonoBehaviourVariable)
+  fullName: VariableReference.QuaternionReference.QuaternionReference(VariableReference.QuaternionMonoBehaviourVariable)
+  nameWithType: QuaternionReference.QuaternionReference(QuaternionMonoBehaviourVariable)
+- uid: VariableReference.QuaternionReference.#ctor(VariableReference.QuaternionScriptableObjectVariable)
+  name: QuaternionReference(QuaternionScriptableObjectVariable)
+  href: api/VariableReference.QuaternionReference.html#VariableReference_QuaternionReference__ctor_VariableReference_QuaternionScriptableObjectVariable_
+  commentId: M:VariableReference.QuaternionReference.#ctor(VariableReference.QuaternionScriptableObjectVariable)
+  fullName: VariableReference.QuaternionReference.QuaternionReference(VariableReference.QuaternionScriptableObjectVariable)
+  nameWithType: QuaternionReference.QuaternionReference(QuaternionScriptableObjectVariable)
+- uid: VariableReference.QuaternionReference.#ctor*
+  name: QuaternionReference
+  href: api/VariableReference.QuaternionReference.html#VariableReference_QuaternionReference__ctor_
+  commentId: Overload:VariableReference.QuaternionReference.#ctor
+  isSpec: "True"
+  fullName: VariableReference.QuaternionReference.QuaternionReference
+  nameWithType: QuaternionReference.QuaternionReference
+- uid: VariableReference.QuaternionScriptableObjectVariable
+  name: QuaternionScriptableObjectVariable
+  href: api/VariableReference.QuaternionScriptableObjectVariable.html
+  commentId: T:VariableReference.QuaternionScriptableObjectVariable
+  fullName: VariableReference.QuaternionScriptableObjectVariable
+  nameWithType: QuaternionScriptableObjectVariable
+- uid: VariableReference.ScriptableObjectVariable
+  name: ScriptableObjectVariable
+  href: api/VariableReference.ScriptableObjectVariable.html
+  commentId: T:VariableReference.ScriptableObjectVariable
+  fullName: VariableReference.ScriptableObjectVariable
+  nameWithType: ScriptableObjectVariable
+- uid: VariableReference.ScriptableObjectVariable.ValueToString
+  name: ValueToString()
+  href: api/VariableReference.ScriptableObjectVariable.html#VariableReference_ScriptableObjectVariable_ValueToString
+  commentId: M:VariableReference.ScriptableObjectVariable.ValueToString
+  fullName: VariableReference.ScriptableObjectVariable.ValueToString()
+  nameWithType: ScriptableObjectVariable.ValueToString()
+- uid: VariableReference.ScriptableObjectVariable.ValueToString*
+  name: ValueToString
+  href: api/VariableReference.ScriptableObjectVariable.html#VariableReference_ScriptableObjectVariable_ValueToString_
+  commentId: Overload:VariableReference.ScriptableObjectVariable.ValueToString
+  isSpec: "True"
+  fullName: VariableReference.ScriptableObjectVariable.ValueToString
+  nameWithType: ScriptableObjectVariable.ValueToString
+- uid: VariableReference.ScriptableObjectVariable`1
+  name: ScriptableObjectVariable<T>
+  href: api/VariableReference.ScriptableObjectVariable-1.html
+  commentId: T:VariableReference.ScriptableObjectVariable`1
+  name.vb: ScriptableObjectVariable(Of T)
+  fullName: VariableReference.ScriptableObjectVariable<T>
+  fullName.vb: VariableReference.ScriptableObjectVariable(Of T)
+  nameWithType: ScriptableObjectVariable<T>
+  nameWithType.vb: ScriptableObjectVariable(Of T)
+- uid: VariableReference.ScriptableObjectVariable`1.op_Implicit(VariableReference.ScriptableObjectVariable{`0})~`0
+  name: Implicit(ScriptableObjectVariable<T> to T)
+  href: api/VariableReference.ScriptableObjectVariable-1.html#VariableReference_ScriptableObjectVariable_1_op_Implicit_VariableReference_ScriptableObjectVariable__0____0
+  commentId: M:VariableReference.ScriptableObjectVariable`1.op_Implicit(VariableReference.ScriptableObjectVariable{`0})~`0
+  name.vb: Widening(ScriptableObjectVariable(Of T) to T)
+  fullName: VariableReference.ScriptableObjectVariable<T>.Implicit(VariableReference.ScriptableObjectVariable<T> to T)
+  fullName.vb: VariableReference.ScriptableObjectVariable(Of T).Widening(VariableReference.ScriptableObjectVariable(Of T) to T)
+  nameWithType: ScriptableObjectVariable<T>.Implicit(ScriptableObjectVariable<T> to T)
+  nameWithType.vb: ScriptableObjectVariable(Of T).Widening(ScriptableObjectVariable(Of T) to T)
+- uid: VariableReference.ScriptableObjectVariable`1.op_Implicit*
+  name: Implicit
+  href: api/VariableReference.ScriptableObjectVariable-1.html#VariableReference_ScriptableObjectVariable_1_op_Implicit_
+  commentId: Overload:VariableReference.ScriptableObjectVariable`1.op_Implicit
+  isSpec: "True"
+  name.vb: Widening
+  fullName: VariableReference.ScriptableObjectVariable<T>.Implicit
+  fullName.vb: VariableReference.ScriptableObjectVariable(Of T).Widening
+  nameWithType: ScriptableObjectVariable<T>.Implicit
+  nameWithType.vb: ScriptableObjectVariable(Of T).Widening
+- uid: VariableReference.ScriptableObjectVariable`1.value
+  name: value
+  href: api/VariableReference.ScriptableObjectVariable-1.html#VariableReference_ScriptableObjectVariable_1_value
+  commentId: F:VariableReference.ScriptableObjectVariable`1.value
+  fullName: VariableReference.ScriptableObjectVariable<T>.value
+  fullName.vb: VariableReference.ScriptableObjectVariable(Of T).value
+  nameWithType: ScriptableObjectVariable<T>.value
+  nameWithType.vb: ScriptableObjectVariable(Of T).value
+- uid: VariableReference.ScriptableObjectVariable`1.Value
+  name: Value
+  href: api/VariableReference.ScriptableObjectVariable-1.html#VariableReference_ScriptableObjectVariable_1_Value
+  commentId: P:VariableReference.ScriptableObjectVariable`1.Value
+  fullName: VariableReference.ScriptableObjectVariable<T>.Value
+  fullName.vb: VariableReference.ScriptableObjectVariable(Of T).Value
+  nameWithType: ScriptableObjectVariable<T>.Value
+  nameWithType.vb: ScriptableObjectVariable(Of T).Value
+- uid: VariableReference.ScriptableObjectVariable`1.Value*
+  name: Value
+  href: api/VariableReference.ScriptableObjectVariable-1.html#VariableReference_ScriptableObjectVariable_1_Value_
+  commentId: Overload:VariableReference.ScriptableObjectVariable`1.Value
+  isSpec: "True"
+  fullName: VariableReference.ScriptableObjectVariable<T>.Value
+  fullName.vb: VariableReference.ScriptableObjectVariable(Of T).Value
+  nameWithType: ScriptableObjectVariable<T>.Value
+  nameWithType.vb: ScriptableObjectVariable(Of T).Value
+- uid: VariableReference.ScriptableObjectVariable`1.ValueToString
+  name: ValueToString()
+  href: api/VariableReference.ScriptableObjectVariable-1.html#VariableReference_ScriptableObjectVariable_1_ValueToString
+  commentId: M:VariableReference.ScriptableObjectVariable`1.ValueToString
+  fullName: VariableReference.ScriptableObjectVariable<T>.ValueToString()
+  fullName.vb: VariableReference.ScriptableObjectVariable(Of T).ValueToString()
+  nameWithType: ScriptableObjectVariable<T>.ValueToString()
+  nameWithType.vb: ScriptableObjectVariable(Of T).ValueToString()
+- uid: VariableReference.ScriptableObjectVariable`1.ValueToString*
+  name: ValueToString
+  href: api/VariableReference.ScriptableObjectVariable-1.html#VariableReference_ScriptableObjectVariable_1_ValueToString_
+  commentId: Overload:VariableReference.ScriptableObjectVariable`1.ValueToString
+  isSpec: "True"
+  fullName: VariableReference.ScriptableObjectVariable<T>.ValueToString
+  fullName.vb: VariableReference.ScriptableObjectVariable(Of T).ValueToString
+  nameWithType: ScriptableObjectVariable<T>.ValueToString
+  nameWithType.vb: ScriptableObjectVariable(Of T).ValueToString
+- uid: VariableReference.stringMonoBehaviourVariable
+  name: stringMonoBehaviourVariable
+  href: api/VariableReference.stringMonoBehaviourVariable.html
+  commentId: T:VariableReference.stringMonoBehaviourVariable
+  fullName: VariableReference.stringMonoBehaviourVariable
+  nameWithType: stringMonoBehaviourVariable
+- uid: VariableReference.stringReference
+  name: stringReference
+  href: api/VariableReference.stringReference.html
+  commentId: T:VariableReference.stringReference
+  fullName: VariableReference.stringReference
+  nameWithType: stringReference
+- uid: VariableReference.stringReference.#ctor
+  name: stringReference()
+  href: api/VariableReference.stringReference.html#VariableReference_stringReference__ctor
+  commentId: M:VariableReference.stringReference.#ctor
+  fullName: VariableReference.stringReference.stringReference()
+  nameWithType: stringReference.stringReference()
+- uid: VariableReference.stringReference.#ctor(System.String)
+  name: stringReference(String)
+  href: api/VariableReference.stringReference.html#VariableReference_stringReference__ctor_System_String_
+  commentId: M:VariableReference.stringReference.#ctor(System.String)
+  fullName: VariableReference.stringReference.stringReference(System.String)
+  nameWithType: stringReference.stringReference(String)
+- uid: VariableReference.stringReference.#ctor(VariableReference.stringMonoBehaviourVariable)
+  name: stringReference(stringMonoBehaviourVariable)
+  href: api/VariableReference.stringReference.html#VariableReference_stringReference__ctor_VariableReference_stringMonoBehaviourVariable_
+  commentId: M:VariableReference.stringReference.#ctor(VariableReference.stringMonoBehaviourVariable)
+  fullName: VariableReference.stringReference.stringReference(VariableReference.stringMonoBehaviourVariable)
+  nameWithType: stringReference.stringReference(stringMonoBehaviourVariable)
+- uid: VariableReference.stringReference.#ctor(VariableReference.stringScriptableObjectVariable)
+  name: stringReference(stringScriptableObjectVariable)
+  href: api/VariableReference.stringReference.html#VariableReference_stringReference__ctor_VariableReference_stringScriptableObjectVariable_
+  commentId: M:VariableReference.stringReference.#ctor(VariableReference.stringScriptableObjectVariable)
+  fullName: VariableReference.stringReference.stringReference(VariableReference.stringScriptableObjectVariable)
+  nameWithType: stringReference.stringReference(stringScriptableObjectVariable)
+- uid: VariableReference.stringReference.#ctor*
+  name: stringReference
+  href: api/VariableReference.stringReference.html#VariableReference_stringReference__ctor_
+  commentId: Overload:VariableReference.stringReference.#ctor
+  isSpec: "True"
+  fullName: VariableReference.stringReference.stringReference
+  nameWithType: stringReference.stringReference
+- uid: VariableReference.stringScriptableObjectVariable
+  name: stringScriptableObjectVariable
+  href: api/VariableReference.stringScriptableObjectVariable.html
+  commentId: T:VariableReference.stringScriptableObjectVariable
+  fullName: VariableReference.stringScriptableObjectVariable
+  nameWithType: stringScriptableObjectVariable
+- uid: VariableReference.VariableReference
+  name: VariableReference
+  href: api/VariableReference.VariableReference.html
+  commentId: T:VariableReference.VariableReference
+  fullName: VariableReference.VariableReference
+  nameWithType: VariableReference
+- uid: VariableReference.VariableReference.GenericMonoBehaviourValue
+  name: GenericMonoBehaviourValue
+  href: api/VariableReference.VariableReference.html#VariableReference_VariableReference_GenericMonoBehaviourValue
+  commentId: F:VariableReference.VariableReference.GenericMonoBehaviourValue
+  fullName: VariableReference.VariableReference.GenericMonoBehaviourValue
+  nameWithType: VariableReference.GenericMonoBehaviourValue
+- uid: VariableReference.VariableReference.GenericScriptableObjectValue
+  name: GenericScriptableObjectValue
+  href: api/VariableReference.VariableReference.html#VariableReference_VariableReference_GenericScriptableObjectValue
+  commentId: F:VariableReference.VariableReference.GenericScriptableObjectValue
+  fullName: VariableReference.VariableReference.GenericScriptableObjectValue
+  nameWithType: VariableReference.GenericScriptableObjectValue
+- uid: VariableReference.VariableReference.referenceType
+  name: referenceType
+  href: api/VariableReference.VariableReference.html#VariableReference_VariableReference_referenceType
+  commentId: F:VariableReference.VariableReference.referenceType
+  fullName: VariableReference.VariableReference.referenceType
+  nameWithType: VariableReference.referenceType
+- uid: VariableReference.VariableReference.ReferenceType
+  name: ReferenceType
+  href: api/VariableReference.VariableReference.html#VariableReference_VariableReference_ReferenceType
+  commentId: P:VariableReference.VariableReference.ReferenceType
+  fullName: VariableReference.VariableReference.ReferenceType
+  nameWithType: VariableReference.ReferenceType
+- uid: VariableReference.VariableReference.ReferenceType*
+  name: ReferenceType
+  href: api/VariableReference.VariableReference.html#VariableReference_VariableReference_ReferenceType_
+  commentId: Overload:VariableReference.VariableReference.ReferenceType
+  isSpec: "True"
+  fullName: VariableReference.VariableReference.ReferenceType
+  nameWithType: VariableReference.ReferenceType
+- uid: VariableReference.VariableReference.ReferenceTypes
+  name: VariableReference.ReferenceTypes
+  href: api/VariableReference.VariableReference.ReferenceTypes.html
+  commentId: T:VariableReference.VariableReference.ReferenceTypes
+  fullName: VariableReference.VariableReference.ReferenceTypes
+  nameWithType: VariableReference.ReferenceTypes
+- uid: VariableReference.VariableReference.ReferenceTypes.LOCAL
+  name: LOCAL
+  href: api/VariableReference.VariableReference.ReferenceTypes.html#VariableReference_VariableReference_ReferenceTypes_LOCAL
+  commentId: F:VariableReference.VariableReference.ReferenceTypes.LOCAL
+  fullName: VariableReference.VariableReference.ReferenceTypes.LOCAL
+  nameWithType: VariableReference.ReferenceTypes.LOCAL
+- uid: VariableReference.VariableReference.ReferenceTypes.MONOBEHAVIOURVARIABLE
+  name: MONOBEHAVIOURVARIABLE
+  href: api/VariableReference.VariableReference.ReferenceTypes.html#VariableReference_VariableReference_ReferenceTypes_MONOBEHAVIOURVARIABLE
+  commentId: F:VariableReference.VariableReference.ReferenceTypes.MONOBEHAVIOURVARIABLE
+  fullName: VariableReference.VariableReference.ReferenceTypes.MONOBEHAVIOURVARIABLE
+  nameWithType: VariableReference.ReferenceTypes.MONOBEHAVIOURVARIABLE
+- uid: VariableReference.VariableReference.ReferenceTypes.SCRIPTABLEOBJECTVARIABLE
+  name: SCRIPTABLEOBJECTVARIABLE
+  href: api/VariableReference.VariableReference.ReferenceTypes.html#VariableReference_VariableReference_ReferenceTypes_SCRIPTABLEOBJECTVARIABLE
+  commentId: F:VariableReference.VariableReference.ReferenceTypes.SCRIPTABLEOBJECTVARIABLE
+  fullName: VariableReference.VariableReference.ReferenceTypes.SCRIPTABLEOBJECTVARIABLE
+  nameWithType: VariableReference.ReferenceTypes.SCRIPTABLEOBJECTVARIABLE
+- uid: VariableReference.VariableReference.ValueToString
+  name: ValueToString()
+  href: api/VariableReference.VariableReference.html#VariableReference_VariableReference_ValueToString
+  commentId: M:VariableReference.VariableReference.ValueToString
+  fullName: VariableReference.VariableReference.ValueToString()
+  nameWithType: VariableReference.ValueToString()
+- uid: VariableReference.VariableReference.ValueToString*
+  name: ValueToString
+  href: api/VariableReference.VariableReference.html#VariableReference_VariableReference_ValueToString_
+  commentId: Overload:VariableReference.VariableReference.ValueToString
+  isSpec: "True"
+  fullName: VariableReference.VariableReference.ValueToString
+  nameWithType: VariableReference.ValueToString
+- uid: VariableReference.VariableReference`3
+  name: VariableReference<T, S, M>
+  href: api/VariableReference.VariableReference-3.html
+  commentId: T:VariableReference.VariableReference`3
+  name.vb: VariableReference(Of T, S, M)
+  fullName: VariableReference.VariableReference<T, S, M>
+  fullName.vb: VariableReference.VariableReference(Of T, S, M)
+  nameWithType: VariableReference<T, S, M>
+  nameWithType.vb: VariableReference(Of T, S, M)
+- uid: VariableReference.VariableReference`3.#ctor
+  name: VariableReference()
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3__ctor
+  commentId: M:VariableReference.VariableReference`3.#ctor
+  fullName: VariableReference.VariableReference<T, S, M>.VariableReference()
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).VariableReference()
+  nameWithType: VariableReference<T, S, M>.VariableReference()
+  nameWithType.vb: VariableReference(Of T, S, M).VariableReference()
+- uid: VariableReference.VariableReference`3.#ctor(`0)
+  name: VariableReference(T)
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3__ctor__0_
+  commentId: M:VariableReference.VariableReference`3.#ctor(`0)
+  fullName: VariableReference.VariableReference<T, S, M>.VariableReference(T)
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).VariableReference(T)
+  nameWithType: VariableReference<T, S, M>.VariableReference(T)
+  nameWithType.vb: VariableReference(Of T, S, M).VariableReference(T)
+- uid: VariableReference.VariableReference`3.#ctor(`1)
+  name: VariableReference(S)
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3__ctor__1_
+  commentId: M:VariableReference.VariableReference`3.#ctor(`1)
+  fullName: VariableReference.VariableReference<T, S, M>.VariableReference(S)
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).VariableReference(S)
+  nameWithType: VariableReference<T, S, M>.VariableReference(S)
+  nameWithType.vb: VariableReference(Of T, S, M).VariableReference(S)
+- uid: VariableReference.VariableReference`3.#ctor(`2)
+  name: VariableReference(M)
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3__ctor__2_
+  commentId: M:VariableReference.VariableReference`3.#ctor(`2)
+  fullName: VariableReference.VariableReference<T, S, M>.VariableReference(M)
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).VariableReference(M)
+  nameWithType: VariableReference<T, S, M>.VariableReference(M)
+  nameWithType.vb: VariableReference(Of T, S, M).VariableReference(M)
+- uid: VariableReference.VariableReference`3.#ctor*
+  name: VariableReference
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3__ctor_
+  commentId: Overload:VariableReference.VariableReference`3.#ctor
+  isSpec: "True"
+  fullName: VariableReference.VariableReference<T, S, M>.VariableReference
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).VariableReference
+  nameWithType: VariableReference<T, S, M>.VariableReference
+  nameWithType.vb: VariableReference(Of T, S, M).VariableReference
+- uid: VariableReference.VariableReference`3.LocalValue
+  name: LocalValue
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_LocalValue
+  commentId: F:VariableReference.VariableReference`3.LocalValue
+  fullName: VariableReference.VariableReference<T, S, M>.LocalValue
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).LocalValue
+  nameWithType: VariableReference<T, S, M>.LocalValue
+  nameWithType.vb: VariableReference(Of T, S, M).LocalValue
+- uid: VariableReference.VariableReference`3.MonoBehaviourValue
+  name: MonoBehaviourValue
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_MonoBehaviourValue
+  commentId: F:VariableReference.VariableReference`3.MonoBehaviourValue
+  fullName: VariableReference.VariableReference<T, S, M>.MonoBehaviourValue
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).MonoBehaviourValue
+  nameWithType: VariableReference<T, S, M>.MonoBehaviourValue
+  nameWithType.vb: VariableReference(Of T, S, M).MonoBehaviourValue
+- uid: VariableReference.VariableReference`3.op_Implicit(`0)~VariableReference.VariableReference{`0,`1,`2}
+  name: Implicit(T to VariableReference<T, S, M>)
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_op_Implicit__0__VariableReference_VariableReference__0__1__2_
+  commentId: M:VariableReference.VariableReference`3.op_Implicit(`0)~VariableReference.VariableReference{`0,`1,`2}
+  name.vb: Widening(T to VariableReference(Of T, S, M))
+  fullName: VariableReference.VariableReference<T, S, M>.Implicit(T to VariableReference.VariableReference<T, S, M>)
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).Widening(T to VariableReference.VariableReference(Of T, S, M))
+  nameWithType: VariableReference<T, S, M>.Implicit(T to VariableReference<T, S, M>)
+  nameWithType.vb: VariableReference(Of T, S, M).Widening(T to VariableReference(Of T, S, M))
+- uid: VariableReference.VariableReference`3.op_Implicit(VariableReference.VariableReference{`0,`1,`2})~`0
+  name: Implicit(VariableReference<T, S, M> to T)
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_op_Implicit_VariableReference_VariableReference__0__1__2____0
+  commentId: M:VariableReference.VariableReference`3.op_Implicit(VariableReference.VariableReference{`0,`1,`2})~`0
+  name.vb: Widening(VariableReference(Of T, S, M) to T)
+  fullName: VariableReference.VariableReference<T, S, M>.Implicit(VariableReference.VariableReference<T, S, M> to T)
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).Widening(VariableReference.VariableReference(Of T, S, M) to T)
+  nameWithType: VariableReference<T, S, M>.Implicit(VariableReference<T, S, M> to T)
+  nameWithType.vb: VariableReference(Of T, S, M).Widening(VariableReference(Of T, S, M) to T)
+- uid: VariableReference.VariableReference`3.op_Implicit*
+  name: Implicit
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_op_Implicit_
+  commentId: Overload:VariableReference.VariableReference`3.op_Implicit
+  isSpec: "True"
+  name.vb: Widening
+  fullName: VariableReference.VariableReference<T, S, M>.Implicit
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).Widening
+  nameWithType: VariableReference<T, S, M>.Implicit
+  nameWithType.vb: VariableReference(Of T, S, M).Widening
+- uid: VariableReference.VariableReference`3.ScriptableObjectValue
+  name: ScriptableObjectValue
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_ScriptableObjectValue
+  commentId: F:VariableReference.VariableReference`3.ScriptableObjectValue
+  fullName: VariableReference.VariableReference<T, S, M>.ScriptableObjectValue
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).ScriptableObjectValue
+  nameWithType: VariableReference<T, S, M>.ScriptableObjectValue
+  nameWithType.vb: VariableReference(Of T, S, M).ScriptableObjectValue
+- uid: VariableReference.VariableReference`3.Value
+  name: Value
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_Value
+  commentId: P:VariableReference.VariableReference`3.Value
+  fullName: VariableReference.VariableReference<T, S, M>.Value
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).Value
+  nameWithType: VariableReference<T, S, M>.Value
+  nameWithType.vb: VariableReference(Of T, S, M).Value
+- uid: VariableReference.VariableReference`3.Value*
+  name: Value
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_Value_
+  commentId: Overload:VariableReference.VariableReference`3.Value
+  isSpec: "True"
+  fullName: VariableReference.VariableReference<T, S, M>.Value
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).Value
+  nameWithType: VariableReference<T, S, M>.Value
+  nameWithType.vb: VariableReference(Of T, S, M).Value
+- uid: VariableReference.VariableReference`3.ValueToString
+  name: ValueToString()
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_ValueToString
+  commentId: M:VariableReference.VariableReference`3.ValueToString
+  fullName: VariableReference.VariableReference<T, S, M>.ValueToString()
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).ValueToString()
+  nameWithType: VariableReference<T, S, M>.ValueToString()
+  nameWithType.vb: VariableReference(Of T, S, M).ValueToString()
+- uid: VariableReference.VariableReference`3.ValueToString*
+  name: ValueToString
+  href: api/VariableReference.VariableReference-3.html#VariableReference_VariableReference_3_ValueToString_
+  commentId: Overload:VariableReference.VariableReference`3.ValueToString
+  isSpec: "True"
+  fullName: VariableReference.VariableReference<T, S, M>.ValueToString
+  fullName.vb: VariableReference.VariableReference(Of T, S, M).ValueToString
+  nameWithType: VariableReference<T, S, M>.ValueToString
+  nameWithType.vb: VariableReference(Of T, S, M).ValueToString
+- uid: VariableReference.VariableReferenceDrawer
+  name: VariableReferenceDrawer
+  href: api/VariableReference.VariableReferenceDrawer.html
+  commentId: T:VariableReference.VariableReferenceDrawer
+  fullName: VariableReference.VariableReferenceDrawer
+  nameWithType: VariableReferenceDrawer
+- uid: VariableReference.VariableReferenceDrawer.CanCacheInspectorGUI(SerializedProperty)
+  name: CanCacheInspectorGUI(SerializedProperty)
+  href: api/VariableReference.VariableReferenceDrawer.html#VariableReference_VariableReferenceDrawer_CanCacheInspectorGUI_SerializedProperty_
+  commentId: M:VariableReference.VariableReferenceDrawer.CanCacheInspectorGUI(SerializedProperty)
+  fullName: VariableReference.VariableReferenceDrawer.CanCacheInspectorGUI(SerializedProperty)
+  nameWithType: VariableReferenceDrawer.CanCacheInspectorGUI(SerializedProperty)
+- uid: VariableReference.VariableReferenceDrawer.CanCacheInspectorGUI*
+  name: CanCacheInspectorGUI
+  href: api/VariableReference.VariableReferenceDrawer.html#VariableReference_VariableReferenceDrawer_CanCacheInspectorGUI_
+  commentId: Overload:VariableReference.VariableReferenceDrawer.CanCacheInspectorGUI
+  isSpec: "True"
+  fullName: VariableReference.VariableReferenceDrawer.CanCacheInspectorGUI
+  nameWithType: VariableReferenceDrawer.CanCacheInspectorGUI
+- uid: VariableReference.VariableReferenceDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  name: GetPropertyHeight(SerializedProperty, GUIContent)
+  href: api/VariableReference.VariableReferenceDrawer.html#VariableReference_VariableReferenceDrawer_GetPropertyHeight_SerializedProperty_GUIContent_
+  commentId: M:VariableReference.VariableReferenceDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  fullName: VariableReference.VariableReferenceDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+  nameWithType: VariableReferenceDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+- uid: VariableReference.VariableReferenceDrawer.GetPropertyHeight*
+  name: GetPropertyHeight
+  href: api/VariableReference.VariableReferenceDrawer.html#VariableReference_VariableReferenceDrawer_GetPropertyHeight_
+  commentId: Overload:VariableReference.VariableReferenceDrawer.GetPropertyHeight
+  isSpec: "True"
+  fullName: VariableReference.VariableReferenceDrawer.GetPropertyHeight
+  nameWithType: VariableReferenceDrawer.GetPropertyHeight
+- uid: VariableReference.VariableReferenceDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: api/VariableReference.VariableReferenceDrawer.html#VariableReference_VariableReferenceDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:VariableReference.VariableReferenceDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: VariableReference.VariableReferenceDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: VariableReferenceDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: VariableReference.VariableReferenceDrawer.OnGUI*
+  name: OnGUI
+  href: api/VariableReference.VariableReferenceDrawer.html#VariableReference_VariableReferenceDrawer_OnGUI_
+  commentId: Overload:VariableReference.VariableReferenceDrawer.OnGUI
+  isSpec: "True"
+  fullName: VariableReference.VariableReferenceDrawer.OnGUI
+  nameWithType: VariableReferenceDrawer.OnGUI
+- uid: VariableReference.Vector2MonoBehaviourVariable
+  name: Vector2MonoBehaviourVariable
+  href: api/VariableReference.Vector2MonoBehaviourVariable.html
+  commentId: T:VariableReference.Vector2MonoBehaviourVariable
+  fullName: VariableReference.Vector2MonoBehaviourVariable
+  nameWithType: Vector2MonoBehaviourVariable
+- uid: VariableReference.Vector2Reference
+  name: Vector2Reference
+  href: api/VariableReference.Vector2Reference.html
+  commentId: T:VariableReference.Vector2Reference
+  fullName: VariableReference.Vector2Reference
+  nameWithType: Vector2Reference
+- uid: VariableReference.Vector2Reference.#ctor
+  name: Vector2Reference()
+  href: api/VariableReference.Vector2Reference.html#VariableReference_Vector2Reference__ctor
+  commentId: M:VariableReference.Vector2Reference.#ctor
+  fullName: VariableReference.Vector2Reference.Vector2Reference()
+  nameWithType: Vector2Reference.Vector2Reference()
+- uid: VariableReference.Vector2Reference.#ctor(VariableReference.Vector2MonoBehaviourVariable)
+  name: Vector2Reference(Vector2MonoBehaviourVariable)
+  href: api/VariableReference.Vector2Reference.html#VariableReference_Vector2Reference__ctor_VariableReference_Vector2MonoBehaviourVariable_
+  commentId: M:VariableReference.Vector2Reference.#ctor(VariableReference.Vector2MonoBehaviourVariable)
+  fullName: VariableReference.Vector2Reference.Vector2Reference(VariableReference.Vector2MonoBehaviourVariable)
+  nameWithType: Vector2Reference.Vector2Reference(Vector2MonoBehaviourVariable)
+- uid: VariableReference.Vector2Reference.#ctor(VariableReference.Vector2ScriptableObjectVariable)
+  name: Vector2Reference(Vector2ScriptableObjectVariable)
+  href: api/VariableReference.Vector2Reference.html#VariableReference_Vector2Reference__ctor_VariableReference_Vector2ScriptableObjectVariable_
+  commentId: M:VariableReference.Vector2Reference.#ctor(VariableReference.Vector2ScriptableObjectVariable)
+  fullName: VariableReference.Vector2Reference.Vector2Reference(VariableReference.Vector2ScriptableObjectVariable)
+  nameWithType: Vector2Reference.Vector2Reference(Vector2ScriptableObjectVariable)
+- uid: VariableReference.Vector2Reference.#ctor(Vector2)
+  name: Vector2Reference(Vector2)
+  href: api/VariableReference.Vector2Reference.html#VariableReference_Vector2Reference__ctor_Vector2_
+  commentId: M:VariableReference.Vector2Reference.#ctor(Vector2)
+  fullName: VariableReference.Vector2Reference.Vector2Reference(Vector2)
+  nameWithType: Vector2Reference.Vector2Reference(Vector2)
+- uid: VariableReference.Vector2Reference.#ctor*
+  name: Vector2Reference
+  href: api/VariableReference.Vector2Reference.html#VariableReference_Vector2Reference__ctor_
+  commentId: Overload:VariableReference.Vector2Reference.#ctor
+  isSpec: "True"
+  fullName: VariableReference.Vector2Reference.Vector2Reference
+  nameWithType: Vector2Reference.Vector2Reference
+- uid: VariableReference.Vector2ScriptableObjectVariable
+  name: Vector2ScriptableObjectVariable
+  href: api/VariableReference.Vector2ScriptableObjectVariable.html
+  commentId: T:VariableReference.Vector2ScriptableObjectVariable
+  fullName: VariableReference.Vector2ScriptableObjectVariable
+  nameWithType: Vector2ScriptableObjectVariable
+- uid: VariableReference.Vector3MonoBehaviourVariable
+  name: Vector3MonoBehaviourVariable
+  href: api/VariableReference.Vector3MonoBehaviourVariable.html
+  commentId: T:VariableReference.Vector3MonoBehaviourVariable
+  fullName: VariableReference.Vector3MonoBehaviourVariable
+  nameWithType: Vector3MonoBehaviourVariable
+- uid: VariableReference.Vector3Reference
+  name: Vector3Reference
+  href: api/VariableReference.Vector3Reference.html
+  commentId: T:VariableReference.Vector3Reference
+  fullName: VariableReference.Vector3Reference
+  nameWithType: Vector3Reference
+- uid: VariableReference.Vector3Reference.#ctor
+  name: Vector3Reference()
+  href: api/VariableReference.Vector3Reference.html#VariableReference_Vector3Reference__ctor
+  commentId: M:VariableReference.Vector3Reference.#ctor
+  fullName: VariableReference.Vector3Reference.Vector3Reference()
+  nameWithType: Vector3Reference.Vector3Reference()
+- uid: VariableReference.Vector3Reference.#ctor(VariableReference.Vector3MonoBehaviourVariable)
+  name: Vector3Reference(Vector3MonoBehaviourVariable)
+  href: api/VariableReference.Vector3Reference.html#VariableReference_Vector3Reference__ctor_VariableReference_Vector3MonoBehaviourVariable_
+  commentId: M:VariableReference.Vector3Reference.#ctor(VariableReference.Vector3MonoBehaviourVariable)
+  fullName: VariableReference.Vector3Reference.Vector3Reference(VariableReference.Vector3MonoBehaviourVariable)
+  nameWithType: Vector3Reference.Vector3Reference(Vector3MonoBehaviourVariable)
+- uid: VariableReference.Vector3Reference.#ctor(VariableReference.Vector3ScriptableObjectVariable)
+  name: Vector3Reference(Vector3ScriptableObjectVariable)
+  href: api/VariableReference.Vector3Reference.html#VariableReference_Vector3Reference__ctor_VariableReference_Vector3ScriptableObjectVariable_
+  commentId: M:VariableReference.Vector3Reference.#ctor(VariableReference.Vector3ScriptableObjectVariable)
+  fullName: VariableReference.Vector3Reference.Vector3Reference(VariableReference.Vector3ScriptableObjectVariable)
+  nameWithType: Vector3Reference.Vector3Reference(Vector3ScriptableObjectVariable)
+- uid: VariableReference.Vector3Reference.#ctor(Vector3)
+  name: Vector3Reference(Vector3)
+  href: api/VariableReference.Vector3Reference.html#VariableReference_Vector3Reference__ctor_Vector3_
+  commentId: M:VariableReference.Vector3Reference.#ctor(Vector3)
+  fullName: VariableReference.Vector3Reference.Vector3Reference(Vector3)
+  nameWithType: Vector3Reference.Vector3Reference(Vector3)
+- uid: VariableReference.Vector3Reference.#ctor*
+  name: Vector3Reference
+  href: api/VariableReference.Vector3Reference.html#VariableReference_Vector3Reference__ctor_
+  commentId: Overload:VariableReference.Vector3Reference.#ctor
+  isSpec: "True"
+  fullName: VariableReference.Vector3Reference.Vector3Reference
+  nameWithType: Vector3Reference.Vector3Reference
+- uid: VariableReference.Vector3ScriptableObjectVariable
+  name: Vector3ScriptableObjectVariable
+  href: api/VariableReference.Vector3ScriptableObjectVariable.html
+  commentId: T:VariableReference.Vector3ScriptableObjectVariable
+  fullName: VariableReference.Vector3ScriptableObjectVariable
+  nameWithType: Vector3ScriptableObjectVariable
