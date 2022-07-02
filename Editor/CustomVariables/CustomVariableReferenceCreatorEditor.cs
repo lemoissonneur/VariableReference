@@ -3,7 +3,7 @@ using UnityEditor;
 using System.IO;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
     [CustomEditor(typeof(CustomVariableReferenceCreator), true)]
     public class CustomVariableReferenceCreatorEditor : Editor

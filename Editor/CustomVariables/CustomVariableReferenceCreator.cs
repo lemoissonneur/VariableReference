@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEditor;
 using System.IO;
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
     /// <summary>
     /// ScriptableObject to create new implementations of VariableReference
@@ -78,9 +78,9 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
-	[Serializable, CreateAssetMenu(menuName = ""Cobaye Studio/Variables/#CUSTOMTYPE# Variable"", order = 1)]
+	[Serializable, CreateAssetMenu(menuName = ""lemoissonneur/Variables/#CUSTOMTYPE# Variable"", order = 1)]
     public class #CUSTOMTYPE#ScriptableObjectVariable : ScriptableObjectVariable<#CUSTOMTYPE#> { }
 }
 ";
@@ -91,9 +91,9 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
-	[Serializable, AddComponentMenu(""Cobaye Studio/Variables/#CUSTOMTYPE# Variable"", 1)]
+	[Serializable, AddComponentMenu(""lemoissonneur/Variables/#CUSTOMTYPE# Variable"", 1)]
     public class #CUSTOMTYPE#MonoBehaviourVariable : MonoBehaviourVariable<#CUSTOMTYPE#> { }
 }
 ";
@@ -104,7 +104,7 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
     [Serializable]
     public class #CUSTOMTYPE#Reference : VariableReference<#CUSTOMTYPE#, #CUSTOMTYPE#ScriptableObjectVariable, #CUSTOMTYPE#MonoBehaviourVariable>

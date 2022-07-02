@@ -3,7 +3,7 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
     [Serializable]
     public class stringReference : VariableReference<string, stringScriptableObjectVariable, stringMonoBehaviourVariable>

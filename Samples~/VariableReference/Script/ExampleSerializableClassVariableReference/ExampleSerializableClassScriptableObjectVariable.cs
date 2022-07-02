@@ -3,8 +3,8 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference.Example
+namespace VariableReference.Sample
 {
-	[Serializable, CreateAssetMenu(menuName = "Cobaye Studio/Variables/ExampleSerializableClass Variable", order = 1)]
+	[Serializable, CreateAssetMenu(menuName = "Variables/ExampleSerializableClass Variable", order = 1)]
     public class ExampleSerializableClassScriptableObjectVariable : ScriptableObjectVariable<ExampleSerializableClass> { }
 }

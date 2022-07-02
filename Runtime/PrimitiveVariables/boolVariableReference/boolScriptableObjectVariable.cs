@@ -3,8 +3,8 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
-	[Serializable, CreateAssetMenu(menuName = "Cobaye Studio/Variables/bool Variable", order = 1)]
+	[Serializable, CreateAssetMenu(menuName = "Variables/bool Variable", order = 1)]
     public class boolScriptableObjectVariable : ScriptableObjectVariable<bool> { }
 }

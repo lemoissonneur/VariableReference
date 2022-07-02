@@ -2,7 +2,7 @@
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
     /// <summary>
     /// VariableReference inspector drawer class.

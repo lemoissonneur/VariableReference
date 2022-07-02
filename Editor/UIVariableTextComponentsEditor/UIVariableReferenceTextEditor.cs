@@ -2,7 +2,7 @@
 using UnityEditor.UI;
 
 
-namespace CobayeStudio.VariableReference.UIText
+namespace VariableReference.UIText
 {
     [CustomEditor(typeof(UIVariableReferenceText), false)]
     public class UIVariableReferenceTextEditor : TextEditor

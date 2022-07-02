@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
-using CobayeStudio.VariableReference;
+using VariableReference;
 
 
-namespace CobayeStudio.VariableReference.PlayTests
+namespace VariableReference.Tests
 {
     public class VariableReferencePlayTests
     {

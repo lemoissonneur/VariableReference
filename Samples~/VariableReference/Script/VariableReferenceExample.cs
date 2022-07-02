@@ -1,9 +1,9 @@
 using System;
 using UnityEngine;
-using CobayeStudio.VariableReference;
+using VariableReference;
 
 
-namespace CobayeStudio.VariableReference.Example
+namespace VariableReference.Sample
 {
     public class VariableReferenceExample : MonoBehaviour
     {

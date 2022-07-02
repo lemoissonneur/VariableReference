@@ -3,8 +3,8 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
-	[Serializable, CreateAssetMenu(menuName = "Cobaye Studio/Variables/Quaternion Variable", order = 1)]
+	[Serializable, CreateAssetMenu(menuName = "Variables/Quaternion Variable", order = 1)]
     public class QuaternionScriptableObjectVariable : ScriptableObjectVariable<Quaternion> { }
 }

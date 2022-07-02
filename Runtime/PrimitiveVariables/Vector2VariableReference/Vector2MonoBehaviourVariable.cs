@@ -3,8 +3,8 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
-	[Serializable, AddComponentMenu("Cobaye Studio/Variables/Vector2 Variable", 1)]
+	[Serializable, AddComponentMenu("Variables/Vector2 Variable", 1)]
     public class Vector2MonoBehaviourVariable : MonoBehaviourVariable<Vector2> { }
 }

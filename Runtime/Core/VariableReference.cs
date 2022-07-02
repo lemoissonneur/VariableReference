@@ -2,7 +2,7 @@
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
     /// <summary>
     /// Base class for all variables references. able to take any kind of SOVariable or MonoVariable for UIText elements 

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
     /// <summary>
     /// Base class for ScriptableObjectVariable

@@ -3,7 +3,7 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference.Example
+namespace VariableReference.Sample
 {
     [Serializable]
     public class ExampleSerializableClassReference : VariableReference<ExampleSerializableClass, ExampleSerializableClassScriptableObjectVariable, ExampleSerializableClassMonoBehaviourVariable>

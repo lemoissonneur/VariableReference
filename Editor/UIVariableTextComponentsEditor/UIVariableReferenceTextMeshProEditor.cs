@@ -2,7 +2,7 @@
 using TMPro.EditorUtilities;
 
 
-namespace CobayeStudio.VariableReference.UIText
+namespace VariableReference.UIText
 {
     [CustomEditor(typeof(UIVariableReferenceTextMeshPro), false)]
     public class UIVariableReferenceTextMeshProEditor : TMP_EditorPanelUI

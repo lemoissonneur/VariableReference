@@ -3,7 +3,7 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
     [Serializable]
     public class Vector2Reference : VariableReference<Vector2, Vector2ScriptableObjectVariable, Vector2MonoBehaviourVariable>

@@ -3,8 +3,8 @@ using System;
 using UnityEngine;
 
 
-namespace CobayeStudio.VariableReference
+namespace VariableReference
 {
-	[Serializable, CreateAssetMenu(menuName = "Cobaye Studio/Variables/Vector2 Variable", order = 1)]
+	[Serializable, CreateAssetMenu(menuName = "Variables/Vector2 Variable", order = 1)]
     public class Vector2ScriptableObjectVariable : ScriptableObjectVariable<Vector2> { }
 }
