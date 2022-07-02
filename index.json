@@ -177,6 +177,6 @@
   "index.html": {
     "href": "index.html",
     "title": "Variable Reference | Variable Reference",
-    "keywords": "Variable Reference Improvement of the ScriptableObjectVariable system from Ryan Hipple ( https://github.com/roboryantron/Unite2017 ) with the following added : MonoBehaviourVariables (for scenes only variables) Direct access to the referenced data in the inspector UIText and UITextMeshPro extention that allow to directly update a GUI text field with the variable value for easy debug Variable reference SO & Mono Creator for custom types Installation Install via git url by adding this entry in your manifest.json \"com.lemoissonneur.Variablereference\": \"https://github.com/lemoissonneur/VariableReference .git#upm\""
+    "keywords": "Variable Reference Improvement of the ScriptableObjectVariable system from Ryan Hipple ( https://github.com/roboryantron/Unite2017 ) with the following added : MonoBehaviourVariables (for scenes only variables) Direct access to the referenced data in the inspector UIText and UITextMeshPro extention that allow to directly update a GUI text field with the variable value for easy debug Variable reference SO & Mono Creator for custom types Installation Install via git url by adding this entry in your manifest.json \"com.lemoissonneur.variablereference\": \"https://github.com/lemoissonneur/VariableReference.git#upm\""
   }
 }

@@ -2,217 +2,217 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.boolMonoBehaviourVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.boolReference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.boolScriptableObjectVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.CustomVariableReferenceCreator.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.CustomVariableReferenceCreatorEditor.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.doubleMonoBehaviourVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.doubleReference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.doubleScriptableObjectVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.floatMonoBehaviourVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.floatReference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.floatScriptableObjectVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.intMonoBehaviourVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.intReference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.intScriptableObjectVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.MonoBehaviourVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.MonoBehaviourVariable-1.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.QuaternionMonoBehaviourVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.QuaternionReference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.QuaternionScriptableObjectVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.ScriptableObjectVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.ScriptableObjectVariable-1.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.stringMonoBehaviourVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.stringReference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.stringScriptableObjectVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.VariableReference.ReferenceTypes.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.VariableReference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.VariableReference-3.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.VariableReferenceDrawer.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.Vector2MonoBehaviourVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.Vector2Reference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.Vector2ScriptableObjectVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.Vector3MonoBehaviourVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.Vector3Reference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.Vector3ScriptableObjectVariable.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/api/VariableReference.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://lemoissonneur.github.io/VariableReference/index.html</loc>
-    <lastmod>2022-07-02T03:33:06+00:00</lastmod>
+    <lastmod>2022-07-02T03:40:13+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
