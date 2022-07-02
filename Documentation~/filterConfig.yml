@@ -1,0 +1,10 @@
+apiRules:
+- include:
+    uidRegex: ^Global
+    type: Namespace
+- include:
+    uidRegex: ^VariableReference$
+    type: Namespace
+- exclude:
+    uidRegex: .*
+    type: Namespace
