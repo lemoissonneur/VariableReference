@@ -1,0 +1,507 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://lemoissonneur.github.io/VariableReference/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://lemoissonneur.github.io/VariableReference/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/VariableReference/VariableReference/Documentation~",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.CustomVariableReferenceCreator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.CustomVariableReferenceCreator.html",
+          "hash": "HRSEtiDzLHU9qAFj3M6XK0USeUfIlqWQw1v9UuNSpwA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.CustomVariableReferenceCreatorEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.CustomVariableReferenceCreatorEditor.html",
+          "hash": "wmyROMf1ZrWlDqD4z512aNuuwJ/59Sa7KY+WazbrKOY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.MonoBehaviourVariable-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.MonoBehaviourVariable-1.html",
+          "hash": "hOudU+2luK7G0Rn7pn6aflgY8ZU9uFU1sfPwYjf1EYE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.MonoBehaviourVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.MonoBehaviourVariable.html",
+          "hash": "socIXKJrnonjTCM7m1Z+prEdW/xHtn8JV+EnsohuDXc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.QuaternionMonoBehaviourVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.QuaternionMonoBehaviourVariable.html",
+          "hash": "+bWETdED9P9u25F2RI23fNPnjjZmIy5CWVvPckQ2r5U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.QuaternionReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.QuaternionReference.html",
+          "hash": "7EfNnPejUH5IHKY9RsVuYK5zkk9QI0evkuSZLPPae6M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.QuaternionScriptableObjectVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.QuaternionScriptableObjectVariable.html",
+          "hash": "67ZvaXm7HWzOIfCzU7QlgnyFGeiqJVY/LLaiLX2nm8k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.ScriptableObjectVariable-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.ScriptableObjectVariable-1.html",
+          "hash": "0/eTm/6OBR/P5E06JW7Y8NxlLreU5urHiAXAj+uDd6s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.ScriptableObjectVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.ScriptableObjectVariable.html",
+          "hash": "QaJRH5pOg2F4nXOKdt/0bfG2UhNupeearF+afgnIOQk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.VariableReference-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.VariableReference-3.html",
+          "hash": "z1VtlypbbyvA05Sn7Iu9NWHkqL97H332imZx7EONlLI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.VariableReference.ReferenceTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.VariableReference.ReferenceTypes.html",
+          "hash": "UPrDnKPAGfkwSo11hRLt6lX3OaLVKaqCw6MAUxNiZW0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.VariableReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.VariableReference.html",
+          "hash": "7pxHQlVOjNuDW5sRU/6A7VZdIVKb4RoWD8Lhvxo/7w4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.VariableReferenceDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.VariableReferenceDrawer.html",
+          "hash": "utGg4jzg4BsQpMtlCFTMmr95J7o1HXLLujOOCOvWVxg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.Vector2MonoBehaviourVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.Vector2MonoBehaviourVariable.html",
+          "hash": "lWHO02/UlZ2TZAgp2FHg6lZ+AdKO6BnsOREJWYxBmqk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.Vector2Reference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.Vector2Reference.html",
+          "hash": "L24neOTdAOH5GFpVnytSplUjA/Zk4ABsLzNZvJ4J+os="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.Vector2ScriptableObjectVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.Vector2ScriptableObjectVariable.html",
+          "hash": "WDA7dGnVhE+uPx3uIn8uOw/9zXDXsZltv/oqoh/MEJE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.Vector3MonoBehaviourVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.Vector3MonoBehaviourVariable.html",
+          "hash": "3ihMeaS1qJdAe5u1Ny/nWLCTIo/SnKNbOd/b/snIcY4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.Vector3Reference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.Vector3Reference.html",
+          "hash": "l5EkKerkuzpPnWYk957JIy2e0bZa6LdRPOWWBK/ZDPU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.Vector3ScriptableObjectVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.Vector3ScriptableObjectVariable.html",
+          "hash": "0X83xhYKDvhFNqbcAAgIOQ83sO+Ya2grexT8OynmMEI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.boolMonoBehaviourVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.boolMonoBehaviourVariable.html",
+          "hash": "j06tcc1Rn9cwWxSHclP93xoy9bUg/wzGBrVy8JSt/R0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.boolReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.boolReference.html",
+          "hash": "olm8y2c7XHRgrKOc+/pUvNhmCQE4n/zgYEfp0LhiwrE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.boolScriptableObjectVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.boolScriptableObjectVariable.html",
+          "hash": "dlAgXt7n54xcN47JTiM2u94QNE891O/cD/eak5GE198="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.doubleMonoBehaviourVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.doubleMonoBehaviourVariable.html",
+          "hash": "7KqqV7l/wvpe/ztf76E/kxF/Qb98OGc5N9Wp0PibzTE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.doubleReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.doubleReference.html",
+          "hash": "dSdV3DIlnNt+xant9YMuDZLXfuQvb8nicoaKdwD4gdY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.doubleScriptableObjectVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.doubleScriptableObjectVariable.html",
+          "hash": "e7cLeeXrQ/02duGgF4RqA5qeCxb6LAzVd/6oMugE+NA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.floatMonoBehaviourVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.floatMonoBehaviourVariable.html",
+          "hash": "0DeVXjAm9m/hmA2NoviiQk3HXjeUgLI1VfWshMXtWxc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.floatReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.floatReference.html",
+          "hash": "3VdVLBZzBpCu6YghX9y8PusNGeNYyqUpUbo59P1uuuU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.floatScriptableObjectVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.floatScriptableObjectVariable.html",
+          "hash": "uKlCCOdt3cyaCgRrxB/kn6Ccp61DF+En67T6S2aTX1Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.intMonoBehaviourVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.intMonoBehaviourVariable.html",
+          "hash": "SiRe/fthh9i8r0I6RvBVmxmjHbU8G1ZRGPKG+MRCWvE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.intReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.intReference.html",
+          "hash": "Qd9JCE+zg+NJDEnJJ7S8V8uTEv5pAv/k5VWQQMziktM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.intScriptableObjectVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.intScriptableObjectVariable.html",
+          "hash": "bef2VjnLlAbLHu+dsKTie24/Wr7ABVKdzicwYKbPoeo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.stringMonoBehaviourVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.stringMonoBehaviourVariable.html",
+          "hash": "KKGgKXhXm0arJIlxsfI/7AKX4rHJBOmfW4RYnsr7aDk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.stringReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.stringReference.html",
+          "hash": "c1xsryedc98zl89XGQOrBlirHGVRm5/Yz2xU/+GUKII="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.stringScriptableObjectVariable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.stringScriptableObjectVariable.html",
+          "hash": "p3WGJRD0IE0wFgrgbbF/lsEl2N878mf6tPgKKDol3E0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/VariableReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/VariableReference.html",
+          "hash": "Ns7nATjBevN3yhNoEnfn9Ox2zpoZofYvzYRMNGeuazM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "CJSw6dCG9TiXFC8veF1/t8tSJHpHpWBM7xIAOyQbLcc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 35,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
