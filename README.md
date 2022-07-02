@@ -31,4 +31,4 @@ Improvement of the ScriptableObjectVariable system from Ryan Hipple ( https://gi
 
 Install via git url by adding this entry in your **manifest.json**
 
-`"com.lemoissonneur.Variablereference": "https://github.com/lemoissonneur/VariableReference .git#upm"`
+`"com.lemoissonneur.variablereference": "https://github.com/lemoissonneur/VariableReference.git#upm"`
