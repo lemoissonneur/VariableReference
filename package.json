@@ -9,6 +9,7 @@
   "unity": "2020.3",
   "unityRelease": "",
   "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
   },
   "author": {
     "name": "Arthur LE BARON",
