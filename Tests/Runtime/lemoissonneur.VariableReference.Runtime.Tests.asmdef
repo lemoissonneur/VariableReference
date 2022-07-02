@@ -1,10 +1,10 @@
 {
-    "name": "CobayeStudio.VariableReference.PlayTests",
+    "name": "lemoissonneur.VariableReference.Runtime.Tests",
     "rootNamespace": "",
     "references": [
+        "lemoissonneur.VariableReference.Runtime",
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner",
-        "CobayeStudio.VariableReference"
+        "UnityEditor.TestRunner"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -13,7 +13,7 @@
     "precompiledReferences": [
         "nunit.framework.dll"
     ],
-    "autoReferenced": false,
+    "autoReferenced": true,
     "defineConstraints": [
         "UNITY_INCLUDE_TESTS"
     ],

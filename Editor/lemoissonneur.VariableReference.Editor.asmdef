@@ -1,8 +1,8 @@
 {
-    "name": "CobayeStudio.VariableReferenceEditor",
+    "name": "lemoissonneur.VariableReference.Editor",
     "rootNamespace": "",
     "references": [
-        "CobayeStudio.VariableReference",
+        "lemoissonneur.VariableReference.Runtime",
         "Unity.TextMeshPro.Editor"
     ],
     "includePlatforms": [

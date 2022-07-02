@@ -1,5 +1,5 @@
 {
-    "name": "CobayeStudio.VariableReference",
+    "name": "lemoissonneur.VariableReference.Runtime",
     "rootNamespace": "",
     "references": [
         "Unity.TextMeshPro"
